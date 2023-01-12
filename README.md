@@ -21,8 +21,8 @@ unreliable and has relatively low interpretability. In this study, we use Kaggle
 between attributes, we perform exploratory data analysis. The dataset was then divided into training and testing, and
 standardization came next. To evaluate the performance of the models, Logistic Regression, Decision Tree, Random
 Forest, and Light GBM are employed.
-2 Method
-2.1 Logistic regression
+  2 Method
+    2.1 Logistic regression
 The method of modeling the likelihood of a discrete result given an input variable is known as logistic regression. The
 most common algorithm models binary outcome by classifying a sample to the class if the estimated probability is
 greater than 50%. The probability estimated by the model in vector form is given by:
